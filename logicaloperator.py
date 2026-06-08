@@ -1,0 +1,6 @@
+a=(2>6)
+b=(3<6)
+print("<==========logical operater==========>")
+print("logical a and b:",a and b)
+print("logical a or b:",a or b)
+print("logical not a:",not a)
